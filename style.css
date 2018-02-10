@@ -1,0 +1,29 @@
+html {
+	box-sizing:border-box;
+}
+*,*before, *:after {
+	box-sizing: inherit;
+}
+nav ul {
+	list-style:none;
+}
+nav ul li {
+	display:inline;
+	margin: 5px;
+}
+h1 {
+	background-image:url("https://media.pri.org/s3fs-public/styles/story_main/public/story/images/nllvu7f9g5g-samuel-zeller_crop_0.jpg?itok=1LarTEWS");
+	height: 500px;
+	width: 1500px;
+	font-style: 
+}
+nav {
+	background-color:white;
+	height: 50px;
+}
+span {
+	float:right;
+}
+.icon{
+	width:30px;
+}
